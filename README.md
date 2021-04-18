@@ -5,6 +5,8 @@
  FXML auto-loading with Google Guice dependency Injection.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Build Status](https://travis-ci.com/TangoraBox/ReactiveDeskFX.svg?branch=master)](https://travis-ci.com/TangoraBox/ReactiveDeskFX)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=com.tangorabox%3Areactive-desk-fx&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.tangorabox%3Areactive-desk-fx)
 
 ---
 
@@ -12,9 +14,15 @@
  
 This library is compatible with java 11 or higher version, lower versions are not supported
 
-### Maven
+### Maven artifact
 
-> Comming Soon!
+```xml
+<dependency>
+  <groupId>com.tangorabox</groupId>
+  <artifactId>reactive-desk-fx</artifactId>
+  <version>1.0</version>
+</dependency>
+```
 
 ## Features
 
