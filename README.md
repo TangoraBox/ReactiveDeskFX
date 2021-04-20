@@ -40,6 +40,12 @@ This library is compatible with java 11 or higher version, lower versions are no
 
 ---
 
+## Example project
+
+If you want to see how to code with this framework please visit my [ResumeFX project](https://github.com/TangoraBox/ResumeFX) witch uses that.
+
+---
+
 ## Usage Steps
 1. .fxml file must have `<fx:root>` tag (`fx:controller` attribute it's optional)
 2. View class must extend the class of your top node in level hierarchy of your .fxml (`type` attribute of `fx:root`)
