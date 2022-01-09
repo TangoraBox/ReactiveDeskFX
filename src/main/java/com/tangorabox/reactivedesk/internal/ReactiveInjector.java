@@ -11,6 +11,8 @@ import java.util.List;
 
 public class ReactiveInjector {
 
+    private ReactiveInjector(){}
+
     public static Injector createInjector(Module... guiceModules) {
         return createInjector(Arrays.asList(guiceModules));
     }

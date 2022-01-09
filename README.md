@@ -4,7 +4,7 @@
  
  FXML auto-loading with Google Guice dependency Injection.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPLv3-blue.svg)](https://opensource.org/licenses/LGPL-3.0)
 [![Build Status](https://travis-ci.com/TangoraBox/ReactiveDeskFX.svg?branch=master)](https://travis-ci.com/TangoraBox/ReactiveDeskFX)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=com.tangorabox%3Areactive-desk-fx&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.tangorabox%3Areactive-desk-fx)
 
@@ -147,6 +147,4 @@ Reach out to me at one of the following places!
 
 ## License
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-- **[GPL v3](https://opensource.org/licenses/gpl-3.0.html)**
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPLv3-blue.svg)](https://opensource.org/licenses/LGPL-3.0)
