@@ -20,7 +20,7 @@ This library is compatible with java 11 or higher version, lower versions are no
 <dependency>
   <groupId>com.tangorabox</groupId>
   <artifactId>reactive-desk-fx</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
 </dependency>
 ```
 
