@@ -5,7 +5,7 @@
 
   <groupId>com.tangorabox</groupId>
   <artifactId>reactive-desk-fx</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.2</version>
   <name>reactive-desk-fx</name>
 
   <url>https://github.com/TangoraBox/ReactiveDeskFX</url>
@@ -65,7 +65,7 @@
     <connection>scm:git:git://github.com/TangoraBox/ReactiveDeskFX.git</connection>
     <developerConnection>scm:git:git@github.com:TangoraBox/ReactiveDeskFX.git</developerConnection>
     <url>https://github.com/TangoraBox/ReactiveDeskFX</url>
-    <tag>HEAD</tag>
+    <tag>reactive-desk-fx-1.0.2</tag>
   </scm>
 
   <dependencies>
